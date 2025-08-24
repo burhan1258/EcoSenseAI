@@ -1,0 +1,7 @@
+gradio
+openai 
+requests 
+plotly 
+pandas
+numpy
+scikit-learn
